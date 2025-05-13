@@ -8,3 +8,4 @@
 | Criar um "Cartaz de IA" | [Cartaz](https://github.com/carlosnet85/logic-digital-trilha-IA/blob/main/dia-1/O%20que%20%C3%A9%20Inteligencia%20Artificial.png) |
 | Discussão Super Simplificada | A eficácia da IA depende totalmente de como ela é utilizada. Considero-a  uma ferramenta benéfica para auxiliar em tarefas cotidianas, porém  também apresenta riscos, como a criação de perfis falsos que utilizam  fotos idênticas de pessoas para aplicar golpes de phishing ou cometer  outros crimes cibernéticos. |
 
+### [Registro de conversas com o SamurAI](https://github.com/carlosnet85/logic-digital-trilha-IA/blob/main/dia-1/conversa_samurai.md)
