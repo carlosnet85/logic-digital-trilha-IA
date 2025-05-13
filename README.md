@@ -3,9 +3,9 @@
 | Atividade | Entrega |
 |---|---|
 | O que é IA? | A inteligência Artificial é um campo da ciẽncia da computação que desenvolve sistemas capazes de realizar tarefas que normamlemnte exigiriam cognição humana. É como um assistente digital inteligente capaz de aprender com o tempo seus padrões, aperfeiçoando sua entrega. a IA pode analisar seus hábitos de vizualização, como na Netflix, recomendando filmes ou séries mais apropriados. |
-| Atividade Prática: Usando IA sem Código | [Texto gerado pelo SamurAI](https://github.com/carlosnet85/logic-digital-trilha-IA/edit/main/README.md#texto-gerado-pelo-samurai) |
-| Demonstração de Ferramentas Visuais | [Grammarly](https://github.com/carlosnet85/logic-digital-trilha-IA/edit/main/README.md#3) |
-| Criar um "Cartaz de IA" | [Cartaz](https://github.com/carlosnet85/logic-digital-trilha-IA/edit/main/README.md#cartaz-sobre-ia) |
+| Atividade Prática: Usando IA sem Código | [Texto gerado pelo SamurAI](https://github.com/carlosnet85/logic-digital-trilha-IA?tab=readme-ov-file#texto-gerado-pelo-samurai) |
+| Demonstração de Ferramentas Visuais | [Grammarly](https://github.com/carlosnet85/logic-digital-trilha-IA#usando-o-grammarly) |
+| Criar um "Cartaz de IA" | [Cartaz](https://github.com/carlosnet85/logic-digital-trilha-IA#cartaz-sobre-ia) |
 | Discussão Super Simplificada | A eficácia da IA depende totalmente de como ela é utilizada. Considero-a  uma ferramenta benéfica para auxiliar em tarefas cotidianas, porém  também apresenta riscos, como a criação de perfis falsos que utilizam  fotos idênticas de pessoas para aplicar golpes de phishing ou cometer  outros crimes cibernéticos. |
 
 ### Texto gerado pelo SamurAI
