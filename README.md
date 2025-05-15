@@ -15,8 +15,7 @@
 | Atividade | Entrega |
 |---|---|
 | Introdução a Ferramentas Criativas | - |
-| Atividade 1: Gerar Imagem com IA | - |
-| Introdução a Ferramentas Criativas | - |
-| Atividade 2: Gerar Texto com IA | - |
-| Montar um "Portfólio Básico" | - |
+| Atividade 1: Gerar Imagem com IA | [Imagem feita com o Sora](https://github.com/carlosnet85/logic-digital-trilha-IA/blob/main/dia-2/Captura%20de%20tela%20de%202025-05-15%2008-11-37.png) |
+| Atividade 2: Gerar Texto com IA | [Texto gerado no LogicGPT](https://github.com/carlosnet85/logic-digital-trilha-IA/blob/main/dia-2/resultado_logicgpt.md) |
+| Montar um "Portfólio Básico" | [Portfolio, com textos e imagens geradas por IA](https://github.com/carlosnet85/logic-digital-trilha-IA/blob/main/dia-2/CARLOS%20VICTOR.pdf) |
 | Apresentação Descontraída | - |
