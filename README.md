@@ -9,3 +9,14 @@
 | Discussão Super Simplificada | A eficácia da IA depende totalmente de como ela é utilizada. Considero-a  uma ferramenta benéfica para auxiliar em tarefas cotidianas, porém  também apresenta riscos, como a criação de perfis falsos que utilizam  fotos idênticas de pessoas para aplicar golpes de phishing ou cometer  outros crimes cibernéticos. |
 
 ### [Registro de conversas com o SamurAI](https://github.com/carlosnet85/logic-digital-trilha-IA/blob/main/dia-1/conversa_samurai.md)
+
+# Logic digital trilha IA - Dia 2
+
+| Atividade | Entrega |
+|---|---|
+| Introdução a Ferramentas Criativas | - |
+| Atividade 1: Gerar Imagem com IA | - |
+| Introdução a Ferramentas Criativas | - |
+| Atividade 2: Gerar Texto com IA | - |
+| Montar um "Portfólio Básico" | - |
+| Apresentação Descontraída | - |
